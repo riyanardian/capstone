@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="8dp">
+
+        <TextView
+            android:id="@+id/tvTimestamp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Waktu: "
+            android:textSize="14sp"/>
+
+        <TextView
+        android:id="@+id/musim"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Musim: "
+        android:textSize="14sp"/>
+
+        <TextView
+            android:id="@+id/tvSensorType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sensor: "
+            android:textSize="14sp"/>
+
+        <TextView
+            android:id="@+id/tvValue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nilai: "
+            android:textSize="14sp"/>
+    </LinearLayout>

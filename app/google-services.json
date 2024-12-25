@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064837126812",
+    "project_id": "siadum-e6ff9",
+    "storage_bucket": "siadum-e6ff9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064837126812:android:ade5f3a72086c5b280eb59",
+        "android_client_info": {
+          "package_name": "com.example.siadum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS6-IWMTXgGCaOha6X-JTvxvQXRVFBc2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

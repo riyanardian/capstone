@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SIADUM</string>
+
+    <!-- Array untuk Spinner -->
+    <string-array name="seasons_array">
+        <item>Musim Hujan</item>
+        <item>Musim Kemarau</item>
+    </string-array>
+</resources>
